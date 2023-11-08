@@ -1,8 +1,6 @@
 # Curso-em-Video-JS
 Pojetos feitos durante o curso de JavaScript do canal Curso em Video
 
-<h1>Exercícios desenvolvidos durante o curso de JavaScript do canal Curso em Vídeo.</h1>
-
 <h2>Ex01</h2>
 <p>Foi feito um site que atualizade a imagem e a cor de fundo dinamicamente de acordo com o horario local, utilizando JS.</p>
 <br>
